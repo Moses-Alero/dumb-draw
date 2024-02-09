@@ -5,4 +5,4 @@ A make shift collaborative board(canvas) powered by htmx
 
 ## what it looks like 
 
-![draw](hhttps://res.cloudinary.com/alero/image/upload/v1707421255/hfuiryukc9jksxzdh3hu.png)
+![draw](https://res.cloudinary.com/alero/image/upload/v1707421255/hfuiryukc9jksxzdh3hu.png)
